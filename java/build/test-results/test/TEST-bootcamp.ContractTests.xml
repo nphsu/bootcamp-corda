@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bootcamp.ContractTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-03-09T23:51:49" hostname="koikeshunpeinoMacBook-Pro.local" time="8.889">
+  <properties/>
+  <testcase name="tokenContractRequiresOneOutputInTheTransaction" classname="bootcamp.ContractTests" time="7.587"/>
+  <testcase name="tokenContractRequiresTheIssuerToBeARequiredSignerInTheTransaction" classname="bootcamp.ContractTests" time="0.174"/>
+  <testcase name="tokenContractRequiresTheTransactionsOutputToBeATokenState" classname="bootcamp.ContractTests" time="0.084"/>
+  <testcase name="tokenContractRequiresTheTransactionsCommandToBeAnIssueCommand" classname="bootcamp.ContractTests" time="0.08"/>
+  <testcase name="tokenContractRequiresOneCommandInTheTransaction" classname="bootcamp.ContractTests" time="0.106"/>
+  <testcase name="tokenContractRequiresTheTransactionsOutputToHaveAPositiveAmount" classname="bootcamp.ContractTests" time="0.142"/>
+  <testcase name="tokenContractRequiresZeroInputsInTheTransaction" classname="bootcamp.ContractTests" time="0.247"/>
+  <system-out><![CDATA[[INFO ] 08:51:48,888 [Test worker] (CordappLoader.kt:137) cordapp.CordappLoader.createDevCordappJar - Generating a test-only cordapp of classes discovered in bootcamp at build/tmp/generated-test-cordapps/bootcamp-2658a12b-8948-4af5-b2d6-eccb5b1bb8e0.jar {}
+[INFO ] 08:51:48,949 [Test worker] (CordappLoader.kt:137) cordapp.CordappLoader.createDevCordappJar - Generating a test-only cordapp of classes discovered in bootcamp at build/tmp/generated-test-cordapps/bootcamp-70cd80d0-31e0-4457-8568-73f56648296f.jar {}
+[INFO ] 08:51:48,970 [Test worker] (CordappLoader.kt:53) cordapp.CordappLoader.<init> - Loading CorDapps from file:/Users/koikeshunpei/Desktop/cordapps/bootcamp-cordapp/java/build/tmp/generated-test-cordapps/bootcamp-2658a12b-8948-4af5-b2d6-eccb5b1bb8e0.jar, file:/Users/koikeshunpei/Desktop/cordapps/bootcamp-cordapp/java/build/tmp/generated-test-cordapps/bootcamp-70cd80d0-31e0-4457-8568-73f56648296f.jar {}
+[INFO ] 08:51:49,062 [Test worker] (CordappLoader.kt:270) cordapp.CordappLoader.scanCordapp - Scanning CorDapp in file:/Users/koikeshunpei/Desktop/cordapps/bootcamp-cordapp/java/build/tmp/generated-test-cordapps/bootcamp-2658a12b-8948-4af5-b2d6-eccb5b1bb8e0.jar {}
+[INFO ] 08:51:49,239 [Test worker] (CordappLoader.kt:270) cordapp.CordappLoader.scanCordapp - Scanning CorDapp in file:/Users/koikeshunpei/Desktop/cordapps/bootcamp-cordapp/java/build/tmp/generated-test-cordapps/bootcamp-70cd80d0-31e0-4457-8568-73f56648296f.jar {}
+[WARN ] 08:51:49,357 [Test worker] (CordappProviderImpl.kt:40) cordapp.CordappProviderImpl.verifyInstalledCordapps - The network parameters don't specify any whitelisted contract implementations. Please contact your zone operator. See https://docs.corda.net/network-map.html {}
+[WARN ] 08:51:57,035 [Test worker] (CordappProviderImpl.kt:40) cordapp.CordappProviderImpl.verifyInstalledCordapps - The network parameters don't specify any whitelisted contract implementations. Please contact your zone operator. See https://docs.corda.net/network-map.html {}
+[WARN ] 08:51:57,281 [Test worker] (CordappProviderImpl.kt:40) cordapp.CordappProviderImpl.verifyInstalledCordapps - The network parameters don't specify any whitelisted contract implementations. Please contact your zone operator. See https://docs.corda.net/network-map.html {}
+[WARN ] 08:51:57,432 [Test worker] (CordappProviderImpl.kt:40) cordapp.CordappProviderImpl.verifyInstalledCordapps - The network parameters don't specify any whitelisted contract implementations. Please contact your zone operator. See https://docs.corda.net/network-map.html {}
+[WARN ] 08:51:57,579 [Test worker] (CordappProviderImpl.kt:40) cordapp.CordappProviderImpl.verifyInstalledCordapps - The network parameters don't specify any whitelisted contract implementations. Please contact your zone operator. See https://docs.corda.net/network-map.html {}
+[WARN ] 08:51:57,766 [Test worker] (CordappProviderImpl.kt:40) cordapp.CordappProviderImpl.verifyInstalledCordapps - The network parameters don't specify any whitelisted contract implementations. Please contact your zone operator. See https://docs.corda.net/network-map.html {}
+[WARN ] 08:51:58,015 [Test worker] (CordappProviderImpl.kt:40) cordapp.CordappProviderImpl.verifyInstalledCordapps - The network parameters don't specify any whitelisted contract implementations. Please contact your zone operator. See https://docs.corda.net/network-map.html {}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+/Users/koikeshunpei/Desktop/cordapps/bootcamp-cordapp/kotlin/src/test/kotlin/bootcamp/ContractTests.kt
+/Users/koikeshunpei/Desktop/cordapps/bootcamp-cordapp/kotlin/src/test/kotlin/bootcamp/StateTests.kt
+/Users/koikeshunpei/Desktop/cordapps/bootcamp-cordapp/kotlin/src/test/kotlin/bootcamp/FlowTests.kt
